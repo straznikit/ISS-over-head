@@ -27,7 +27,7 @@ Python 3.12
 
 1. Clone the repository to your local machine:
 ```python
-git clone https://github.com/straznikit/
+git clone https://github.com/straznikit/ISS-over-head
 ```
 2. Configure the script with your email credentials and location preferences.
 
