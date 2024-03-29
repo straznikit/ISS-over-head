@@ -22,7 +22,6 @@ Email Notification: Sends an email notification to the user's specified email ad
 ## Dependencies:
 
 Python 3.12
-
 ## Getting Started:
 
 1. Clone the repository to your local machine:
