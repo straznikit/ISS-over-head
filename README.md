@@ -20,10 +20,8 @@ Email Notification: Sends an email notification to the user's specified email ad
 
 4. If the ISS is within a predetermined proximity threshold, an email notification is sent to the user's specified email address.
 ## Dependencies:
-
 Python 3.12
 ## Getting Started:
-
 1. Clone the repository to your local machine:
 ```python
 git clone https://github.com/straznikit/ISS-over-head
