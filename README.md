@@ -15,9 +15,7 @@ Email Notification: Sends an email notification to the user's specified email ad
 1. The script retrieves live data on the current position of the ISS using external APIs.
 
 2. The user enters his location.
-
 3. The script calculates the distance between the user's location and the ISS.
-
 4. If the ISS is within a predetermined proximity threshold, an email notification is sent to the user's specified email address.
 ## Dependencies:
 Python 3.12
