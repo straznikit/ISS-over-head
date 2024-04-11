@@ -25,9 +25,7 @@ Python 3.12
 git clone https://github.com/straznikit/ISS-over-head
 ```
 2. Configure the script with your email credentials and location preferences.
-
 3. Run the script and monitor the output for real-time updates on the ISS location and email notifications.
-
 ## Contributing:
 
 Contributions are welcome! If you have any suggestions, improvements, or feature requests, please feel free to submit a pull request or open an issue in the repository.
